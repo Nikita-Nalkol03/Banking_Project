@@ -89,6 +89,12 @@
     <version>0.13.0</version>
 </dependency>
 
+
+<dependency>
+    <groupId>com.google.genai</groupId>
+    <artifactId>google-genai</artifactId>
+    <version>1.76.0</version>
+</dependency>
 <dependency>
     <groupId>io.jsonwebtoken</groupId>
     <artifactId>jjwt-impl</artifactId>
